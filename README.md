@@ -150,7 +150,7 @@ Using this dashboard, users can:
 
 ## 👨‍💻 Author
 
-As
+Asharafraza Desai
 Data Engineering Enthusiast
 
 ---
