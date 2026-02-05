@@ -150,7 +150,7 @@ Using this dashboard, users can:
 
 ## 👨‍💻 Author
 
-*(Add your name here)*
+As
 Data Engineering Enthusiast
 
 ---
