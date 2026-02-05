@@ -1,5 +1,7 @@
 # 📊 End-to-End Data Engineering Project — Databricks & Power BI
 
+<img width="1050" height="500" alt="image" src="https://github.com/user-attachments/assets/505ee347-9ed8-4d88-8427-f8154c4099c8" />
+
 ## 🚀 Project Overview
 
 This project demonstrates a **complete end-to-end Data Engineering pipeline** using **Databricks (Lakehouse Architecture)** and **Power BI**. The pipeline follows the **Bronze–Silver–Gold (Medallion) architecture**, transforming raw data into analytics-ready tables and finally into an interactive business dashboard.
